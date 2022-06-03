@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /public/
+Disallow: /utils/
+Disallow: /pages/
+Disallow: /.htaccess
+Disallow: /admin/
