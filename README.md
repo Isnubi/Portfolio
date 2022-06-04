@@ -9,3 +9,7 @@ Ce portfolio est développé en :
 * [CSS](https://fr.wikipedia.org/wiki/Cascading_Style_Sheets)
 * [JavaScript](https://fr.wikipedia.org/wiki/JavaScript)
 * [PHP](https://fr.wikipedia.org/wiki/PHP)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
