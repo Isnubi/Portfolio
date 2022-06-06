@@ -1,6 +1,8 @@
 # Portfolio
 
-Ceci est mon portfolion disponible sur mon [site web](https://www.louis-gambart.fr/).
+Ceci est mon portfolio disponible sur mon [site web](https://www.louis-gambart.fr/).
+
+Il a été développé dans le cadre de ma formation en BTS Services Informatiques aux Organisation (SIO).
 
 ## Languages
 
