@@ -12,7 +12,7 @@
         <div class="starter-template text-center py-5 px-3"> <!--Paragraphe de présentation-->
             <h1>Bienvenue sur mon portfolio !</h1>
             <p class="lead">Je m'appelle Louis GAMBART et j'ai <?php include($_SERVER['DOCUMENT_ROOT'].'/public/assets/dist/php/age.php'); ?> ans.<br>
-            Je suis actuellement en 2ème année de BTS SIO (Services Informatiques aux Organisations), en option SISR (Solutions d'Infrastructures, Réseaux et Systèmes), au lycée Turgot à Paris 03.</p><br>
+                Je suis actuellement en 1ère année de cursus <strong>Ingénieur - Réseaux & Sécurité</strong> (en alternance chez Engie Home Services), à l'ESIEE à Noisy-le-Grand.</p><br>
             <a href="pages/profil.php" class="btn btn-primary">Voir mon profil</a><br><br> <!--Lien menant à la page profil-->
             <a href="pages/contact.php" class="btn btn-primary">Me contacter</a> <!--Lien menant à la page de contact-->
         </div>

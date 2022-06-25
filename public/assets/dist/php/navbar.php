@@ -14,22 +14,19 @@
                     <a class="nav-link" href="/pages/profil.php">Profil</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/pages/bts.php">BTS SIO</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/pages/documentation/documentation.php">Documentations</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/pages/projets/projets.php">Projets</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link" href="/pages/competences.php">Compétences</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/pages/veille.php">Veille technologique</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link" href="/pages/stages/stage.php">Parcours</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" id="SIO" data-bs-toggle="dropdown" aria-expanded="false=">Cursus SIO</a>
+                    <ul class="dropdown-menu" aria-labelledby="SIO">
+                        <li><a class="dropdown-item" href="/pages/sio/bts.php">BTS SIO</a></li>
+                        <li><a class="dropdown-item" href="/pages/sio/documentation/documentation.php">Documentations</a></li>
+                        <li><a class="dropdown-item" href="/pages/sio/projets/projets.php">Projets</a></li>
+                        <li><a class="dropdown-item" href="/pages/sio/veille.php">Veille technologique</a></li>
+                    </ul>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/pages/contact.php">Contact</a>

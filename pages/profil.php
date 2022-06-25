@@ -25,10 +25,13 @@
                 <div class="card shadow p-3 mb-5 border-primary rounded">
                     <div class="card-body text-grey">
                         <h5 class="card-title text-center">Diplômes et formations</h5>
-                        <p class="card-text"><strong>BTS Services Informatiques aux Organisations</strong><br> <!--<strong> pour mettre le texte en gras-->
-                        Actuellement en 2ème année de BTS SIO, en option Solutions d'Intrastructures,
+                        <p class="card-text"><strong>Ingénieur Réseaux & Sécurité</strong><br>
+                        Actuellement en première année de cursus d'ingénieur en alternance, à l'ESIEE à Noisy-le-Grand.
+                        <em>Fin de cursus en août 2025.</em></p>
+
+                        <p class="card-text"><strong>BTS Services Informatiques aux Organisations</strong><br>
+                        BTS Services Informatique aux Organisations, en option Solutions d'Intrastructures,
                         Systèmes et Réseaux (SISR), au lycée Turgot à Paris 03.
-                        <em>Examen en 2022.</em></p> <!--<em> pour mettre le texte en italique-->
 
                         <p class="card-text"><strong>Baccalauréat Sciences et Technologies de l'Industrie et du Développement Durable</strong><br>
                         Baccaulauréat STI2D, obtenu avec une mention très bien, en option Systèmes d'Informations 
