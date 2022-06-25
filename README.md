@@ -2,8 +2,6 @@
 
 This is my portfolio, which is available on my [webiste](https://www.louis-gambart.fr/).
 
-Il a été développé dans le cadre de ma formation en BTS Services Informatiques aux Organisation (SIO).
-
 It was developed in the context of my formation in computer science at BTS SIO (french formation).
 
 I update it regularly to keep it up to date.
