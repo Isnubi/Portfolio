@@ -66,7 +66,7 @@
                 </div>
                 <div class="card-body">
                     <h5 class="card-title">Mairie de Villeparisis</h5>
-                    <p class="card-text">CDD effectué du 19/07/2017 au 13/08/2017.</p>
+                    <p class="card-text">CDD effectué du 19/07/2021 au 13/08/2021.</p>
                     <div class="text-center">
                         <a href="cdd_mairie_ete2021.php" class="btn btn-primary">En savoir plus</a>
                     </div>
@@ -90,7 +90,7 @@
                 </div>
                 <div class="card-body">
                     <h5 class="card-title">Mairie de Villeparisis</h5>
-                    <p class="card-text">CDD effectué du 04/07/2017 au 31/08/2017.</p>
+                    <p class="card-text">CDD effectué du 04/07/2022 au 31/08/2022.</p>
                     <div class="text-center">
                         <a href="cdd_mairie_ete2022.php" class="btn btn-primary">En savoir plus</a>
                     </div>
