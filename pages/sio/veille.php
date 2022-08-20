@@ -22,7 +22,7 @@
                 etc...</p>
                 <br>
                 <p class="card-text">Pour réaliser cette veille, j'ai utilisé différents outils de veille, tel que
-                <em>Feedly, des newsletters</em>.</p>
+                    <em>Feedly, des newsletters</em>, ainsi que mon <em>propre outil de veille technologique</em> disponible <a href="https://louis-gambart.ovh/" target="_blank" class="lien"><b>ici</b></a>.</p>
                 <p class="card-text">Le thème de cette veille sera les <strong>technologies</strong> de <strong>virtualisation VMWare</strong>.</p>
                 <p class="card-text">La volonté des entreprises de réduire leur impact environnemental passe notamment par la réduction du
                     nombre d'équipements hébergés en datacenter. Pour cela, une majorité des entreprises se tournent vers le cloud, ou la virtualisation.
