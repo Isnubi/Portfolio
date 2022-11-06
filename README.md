@@ -57,6 +57,8 @@
 </div>
 -->
 
+**Currently in work**
+
 This website is a portfolio of my work. It is a showcase of my skills and 
 abilities. You can find my resume, my projects, my skills and my contact details.
 
@@ -79,7 +81,7 @@ abilities. You can find my resume, my projects, my skills and my contact details
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-You can access it from my [website](https://www.louis-gambart.fr/).
+You can access to the old version from my [website](https://www.louis-gambart.fr/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
