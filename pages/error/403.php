@@ -1,1 +1,19 @@
-oh l'autre il a même pas accès à la page quoi bouuuuuuuuh
+<!doctype html>
+<html lang="fr">
+<?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/header.php');?>
+<body>
+<div id="filterbanner"></div>
+<div id="banner"></div>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/navbar.php');?>
+<main class="container">
+    <div class="row center">
+        <div class="col-12">
+            <h1>Erreur 403</h1>
+            <p>Vous n'avez pas les droits d'accès à cette page</p>
+        </div>
+    </div>
+</main>
+</body>
+<article></article>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/footer.php');?>
+</html>
