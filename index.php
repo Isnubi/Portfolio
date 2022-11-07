@@ -11,6 +11,8 @@
                     <h1>Page d'accueil</h1>
                     <p>Bienvenue sur mon site !</p>
                 </div>
+                <br>
+                <button class="btn"><a href="/pages/about.php">About me</a></button>
             </div>
         </main>
     </body>

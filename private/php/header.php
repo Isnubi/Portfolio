@@ -25,6 +25,7 @@
     <link rel="stylesheet" href="/private/css/main.css">
     <link rel="stylesheet" href="/private/css/navbar.css">
     <link rel="stylesheet" href="/private/css/animation.css">
+    <link rel="stylesheet" href="/private/css/button.css">
     <!-- ICONS -->
     <link rel="icon" type="image/x-icon" sizes="512x512" href="/public/img/favicon.ico">
 </head>
