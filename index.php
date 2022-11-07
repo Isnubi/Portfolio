@@ -6,10 +6,8 @@
         <div id="banner"></div>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/navbar.php');?>
         <main class="container">
-            <div class="row center">
-                <div class="col-12">
-                    <h1>Welcome to my portfolio!</h1>
-                </div>
+            <div class="center">
+                <h1>Welcome to my portfolio!</h1>
                 <br>
                 <a class="btn" href="/pages/about.php">About me</a>
             </div>

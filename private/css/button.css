@@ -11,8 +11,8 @@
     overflow: hidden;
     z-index: 1;
     text-decoration: none;
-    color: #fff;
-    background-color: #008fb3;
+    color: var(--btn-color);
+    background-color: var(--btn-bg-color);
 }
 .btn:before {
     content: '';
@@ -21,7 +21,7 @@
     left: 0;
     width: 0;
     height: 100%;
-    background-color: #00627b;
+    background-color: var(--btn-hover-color);
     transition: all 0.7s;
     border-radius: 5rem;
     z-index: -1;

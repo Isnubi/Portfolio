@@ -22,10 +22,7 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     <!-- CSS -->
-    <link rel="stylesheet" href="/private/css/main.css">
-    <link rel="stylesheet" href="/private/css/navbar.css">
-    <link rel="stylesheet" href="/private/css/animation.css">
-    <link rel="stylesheet" href="/private/css/button.css">
+    <link rel="stylesheet" href="/private/css/import.css">
     <!-- ICONS -->
     <link rel="icon" type="image/x-icon" sizes="512x512" href="/public/img/favicon.ico">
 </head>

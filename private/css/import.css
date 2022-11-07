@@ -1,0 +1,14 @@
+@import 'animation.css';
+@import 'button.css';
+@import 'main.css';
+@import 'navbar.css';
+
+:root{
+    --btn-color: #ffffff;
+    --btn-bg-color: #1687A7;
+    --btn-hover-color: #276678;
+    --navbar-color: #F6F5F5;
+    --navbar-hover: rgba(211, 224, 234, 0.4);
+    --dropdown-color: #D3E0EA;
+    --dropdown-hover: rgba(22, 135, 167, 0.2);
+}
