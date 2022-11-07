@@ -57,7 +57,7 @@
 </div>
 -->
 
-**Currently in work**
+**Still in development**
 
 This website is a portfolio of my work. It is a showcase of my skills and 
 abilities. You can find my resume, my projects, my skills and my contact details.
@@ -68,9 +68,11 @@ abilities. You can find my resume, my projects, my skills and my contact details
 
 ### Built With
 
+It is developed, from scratch, by me, with:
+
 * [![HTML][HTML-shield]][HTML-url]
-* [![PHP][PHP-shield]][PHP-url]
 * [![CSS][CSS-shield]][CSS-url]
+* [![PHP][PHP-shield]][PHP-url]
 * [![JavaScript][JavaScript-shield]][JavaScript-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
