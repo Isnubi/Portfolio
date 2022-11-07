@@ -7,7 +7,7 @@
         <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/navbar.php');?>
         <main class="container">
             <div class="center">
-                <h4>Mentions légales</h4>
+                <h2>Mentions légales</h2>
                 <p>
                     Merci de lire avec attention les différentes modalités
                     d'utilisations du présent site avant d'y parcourir ses pages. En vous connectant
@@ -16,24 +16,24 @@
                     la confiance dans l'économie numérique, les responsables du présent site internet
                     <a class="lien2" href="https://louis-gambart.fr/" target="_blank">louis-gambart.fr</a>.
                 </p>
-                <h5>Editeur du site</h5>
+                <h3>Editeur du site</h3>
                 <p>
                     M. Louis GAMBART<br>
                     Responsable éditorial : Louis GAMBART<br>
                     Email : <a class="mail" href="mailto:contact@louis-gambart.fr">contact@louis-gambart.fr</a><br>
                     Site Web : <a class="lien2" href="https://louis-gambart.fr/" target="_blank">louis-gambart.fr</a>
                 </p>
-                <h5>Hébergement</h5>
+                <h3>Hébergement</h3>
                 <p>
                     Hébergeur : OVH SAS, 2 Rue Kellermann, 59100 ROUBAIX, France<br>
                     Site Web : <a class="lien2" href="https://www.ovhcloud.com" target="_blank">www.ovhcloud.com</a>
                 </p>
-                <h5>Développement</h5>
+                <h3>Développement</h3>
                 <p>
                     M. Louis GAMBART<br>
                     Site Web : <a class="lien2" href="https://louis-gambart.fr/" target="_blank">louis-gambart.fr</a>
                 </p>
-                <h5>Conditions d'utilisation</h5>
+                <h3>Conditions d'utilisation</h3>
                 <p>
                     Ce site <a class="lien2" href="https://louis-gambart.fr/" target="_blank">louis-gambart.fr</a>
                     est proposé en différents langages web (HTML5, JavaScript, CSS, ...) pour un meilleur confort
@@ -46,7 +46,7 @@
                     M. Louis GAMBART n'est en aucun cas responsable de l'utilisation faite de ces informations,
                     et de tout préjudice direct ou indirect pouvant en découler.
                 </p>
-                <h5>Liens hypertexte</h5>
+                <h3>Liens hypertexte</h3>
                 <p>
                     Les sites internet peuvent offrir des liens vers d'autres sites internet ou
                     d'autres ressources disponibles sur internet.<br>
@@ -59,7 +59,7 @@
                     de mise en place d'un hyperlien.<br>
                     M. Louis GAMBART se réserve le droit d'accepter ou de refuser un hyperlien sans avoir à en justifier sa décision.
                 </p>
-                <h5>Services fournis</h5>
+                <h3>Services fournis</h3>
                 <p>
                     M. Louis GAMBART s'efforce de fournir sur le site
                     <a class="lien2" href="https://louis-gambart.fr/" target="_blank">louis-gambart.fr</a> des informations aussi précises
@@ -68,7 +68,7 @@
                     toutes les informations indiquées sur le site sont données à titre indicatif, et sont susceptibles
                     de changer ou d'évoluer sans préavis.
                 </p>
-                <h5>Limitation contractuelles sur les données</h5>
+                <h3>Limitation contractuelles sur les données</h3>
                 <p>
                     Les informations contenues sur ce site sont aussi précises que possible et le site
                     remis à jour à différentes périodes de l'année, mais peut toutefois contenir des inexactitudes ou des omissions.
@@ -84,7 +84,7 @@
                     site internet en direction d'autres ressources présentes sur le réseau Internet ne sauraient engager la responsabilité
                     de M. Louis GAMBART.
                 </p>
-                <h5>Propriété intellectuelle</h5>
+                <h3>Propriété intellectuelle</h3>
                 <p>
                     Tout le contenu du présent site incluant, de façon non limitative, les graphismes, images, textes,
                     vidéos, animations, sons, logos, gifs et icônes ainsi que leur mise en forme sont la propriété exclusive de
@@ -96,13 +96,13 @@
                     constitue une contrefaçon pouvant engager la responsabilité civile et pénale du contrefacteur.
                     En outre, les propriétaires des contenus copiés pourraient intenter une action en justice à l'encontre du contrefacteur.
                 </p>
-                <h5>Litiges</h5>
+                <h3>Litiges</h3>
                 <p>
                     Les présentes conditions du site sont régies par les lois françaises et toute contestation ou
                     litiges qui pourraient naître de l'interprétation ou de l'exécution de celles-ci seront de la compétence exclusive
                     des tribunaux. La langue de référence, pour le règlement de contentieux éventuels, est le français.
                 </p>
-                <h5>Données personnelles</h5>
+                <h3>Données personnelles</h3>
                 <p>
                     De manière générale, vous n'êtes pas tenu de nous communiquer vos données personnelles lorsque
                     vous visitez le site Internet <a class="lien2" href="https://louis-gambart.fr/" target="_blank">louis-gambart.fr</a>.<br>

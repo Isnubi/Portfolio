@@ -23,6 +23,8 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     <!-- CSS -->
     <link rel="stylesheet" href="/private/css/main.css">
+    <link rel="stylesheet" href="/private/css/navbar.css">
+    <link rel="stylesheet" href="/private/css/animation.css">
     <!-- ICONS -->
-    <link rel="icon" type="image/x-icon" sizes="512x512" href="/public/img/favicon.png">
+    <link rel="icon" type="image/x-icon" sizes="512x512" href="/public/img/favicon.ico">
 </head>
