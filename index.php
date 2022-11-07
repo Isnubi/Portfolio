@@ -12,10 +12,9 @@
                     <p>Bienvenue sur mon site !</p>
                 </div>
                 <br>
-                <button class="btn"><a href="/pages/about.php">About me</a></button>
+                <a class="btn" href="/pages/about.php">About me</a>
             </div>
         </main>
     </body>
-    <article></article>
     <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/footer.php');?>
 </html>

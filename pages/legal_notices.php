@@ -136,6 +136,5 @@
             </div>
         </main>
     </body>
-    <article></article>
     <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/footer.php');?>
 </html>
