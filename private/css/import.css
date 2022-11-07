@@ -3,6 +3,8 @@
 @import 'main.css';
 @import 'navbar.css';
 
+/* color palette: https://colorhunt.co/palette/f6f5f5d3e0ea1687a7276678 */
+
 :root{
     --btn-color: #ffffff;
     --btn-bg-color: #1687A7;
