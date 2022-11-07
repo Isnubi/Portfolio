@@ -1,22 +1,21 @@
 <!doctype html>
 <html lang="fr">
-<head>
-    <?php $title = "Accueil"; ?>
-    <?php include($_SERVER['DOCUMENT_ROOT'].'/public/assets/dist/php/header.php'); ?>
-</head>
-<body>
-    <div id="filterbanner"></div> <!--Filtre-->
-    <div id="banner"></div> <!--Background-->
-    <?php include($_SERVER['DOCUMENT_ROOT'].'/public/assets/dist/php/navbar.php'); ?>
-    <main class="container">
-        <div class="starter-template text-center py-5 px-3"> <!--Paragraphe de présentation-->
-            <h1>Bienvenue sur mon portfolio !</h1>
-            <p class="lead">Je m'appelle Louis GAMBART et j'ai <?php include($_SERVER['DOCUMENT_ROOT'].'/public/assets/dist/php/age.php'); ?> ans.<br>
-                Je suis actuellement en 1ère année de cursus <strong>Ingénieur - Réseaux & Sécurité</strong> (en alternance chez Engie Home Services), à l'ESIEE à Noisy-le-Grand.</p><br>
-            <a href="pages/profil.php" class="btn btn-primary">Voir mon profil</a><br><br> <!--Lien menant à la page profil-->
-            <a href="pages/contact.php" class="btn btn-primary">Me contacter</a> <!--Lien menant à la page de contact-->
-        </div>
-    </main>
-    <?php include($_SERVER['DOCUMENT_ROOT'].'/public/assets/dist/php/footer_with_class.php'); ?>
-</body>
+    <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/header.php');?>
+    <body>
+        <div id="filterbanner"></div>
+        <div id="banner"></div>
+        <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/navbar.php');?>
+        <main class="container">
+            <div class="row center">
+                <div class="col-12">
+                    <h1>Page d'accueil</h1>
+                    <p>Bienvenue sur mon site !</p>
+                </div>
+                <br>
+                <button class="btn"><a href="/pages/about.php">About me</a></button>
+            </div>
+        </main>
+    </body>
+    <article></article>
+    <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/footer.php');?>
 </html>
