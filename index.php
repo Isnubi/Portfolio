@@ -8,8 +8,7 @@
         <main class="container">
             <div class="row center">
                 <div class="col-12">
-                    <h1>Page d'accueil</h1>
-                    <p>Bienvenue sur mon site !</p>
+                    <h1>Welcome to my portfolio!</h1>
                 </div>
                 <br>
                 <a class="btn" href="/pages/about.php">About me</a>
