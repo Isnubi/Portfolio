@@ -35,7 +35,7 @@
     position: absolute;
     display: none;
     border-radius: 8px;
-    top: 35px;
+    top: auto;
     right: auto;
     left: 50%;
     transform: translate(-50%,0);

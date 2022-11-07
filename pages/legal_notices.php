@@ -79,7 +79,7 @@
                     of the year, but may contain inaccuracies or omissions.
                     If you notice a gap, error or what seems to be a malfunction, please report it by e-mail to
                     <a class="mail" href="mailto:contact@louis-gambart.fr">contact@louis-gambart.fr</a>, describing the
-                    problem as precisely as possible (page with the problem, type of computer and browser used, ...).<<br>
+                    problem as precisely as possible (page with the problem, type of computer and browser used, ...).<br>
 
                     Any downloaded content is done at the user's own risk and under his sole responsibility.
                     Consequently, Mr Louis GAMBART cannot be held responsible for any damage to the user's computer or
@@ -131,7 +131,7 @@
 
                     Such information is used exclusively for internal statistical purposes. The databases are
                     protected by the provisions of the law of July 1, 1998, transposing the directive 96/9 of
-                    March 11, 1996 on the legal protection of databases.
+                    March 11, 1996, on the legal protection of databases.
                 </p>
             </div>
         </main>
