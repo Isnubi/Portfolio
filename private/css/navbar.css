@@ -6,11 +6,11 @@
     align-items: center;
     justify-content: space-between;
     padding: 12px;
-    background-color: var(--navbar-color);
-    color: #00627b;
+    background-color: var(--navbar-bg-color);
+    color: var(--navbar-color);
 }
 .nav-links a {
-    color: #212529;
+    color: var(--navbar-color);
     text-decoration: none;
 }
 .menu {
@@ -19,7 +19,7 @@
     font-size: 18px;
 }
 .menu li:hover {
-    background-color: var(--navbar-hover);
+    background-color: var(--navbar-bg-hover);
     border-radius: 5px;
     transition: 0.3s ease;
 }
@@ -30,7 +30,7 @@
     position: relative;
 }
 .dropdown{
-    background-color: var(--dropdown-color);
+    background-color: var(--dropdown-bg-color);
     padding: 1em 0;
     position: absolute;
     opacity: 0;
@@ -52,7 +52,7 @@
     text-align: center;
 }
 .dropdown li:hover {
-    background-color: var(--dropdown-hover);
+    background-color: var(--dropdown-bg-hover);
 }
 .projects:hover .dropdown {
     opacity: 1;
@@ -72,7 +72,7 @@ input[type=checkbox] {
     .menu {
         display: none;
         position: absolute;
-        background-color: var(--dropdown-color);
+        background-color: var(--navbar-bg-color);
         right: 0;
         left: 0;
         text-align: right;
@@ -80,7 +80,7 @@ input[type=checkbox] {
     }
     .menu li:hover {
         display: inline-block;
-        background-color: var(--navbar-hover);
+        background-color: var(--navbar-bg-hover);
         transition: 0.3s ease;
     }
     .menu li + li {
@@ -99,6 +99,6 @@ input[type=checkbox] {
         left: unset;
     }
     .dropdown li:hover {
-        background-color: var(--dropdown-hover);
+        background-color: var(--dropdown-bg-hover);
     }
 }

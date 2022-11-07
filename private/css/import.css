@@ -7,8 +7,13 @@
     --btn-color: #ffffff;
     --btn-bg-color: #1687A7;
     --btn-hover-color: #276678;
-    --navbar-color: #F6F5F5;
-    --navbar-hover: rgba(211, 224, 234, 0.4);
-    --dropdown-color: #D3E0EA;
-    --dropdown-hover: rgba(22, 135, 167, 0.2);
+    --navbar-bg-color: #F6F5F5;
+    --navbar-bg-hover: rgba(211, 224, 234, 0.4);
+    --dropdown-bg-color: #D3E0EA;
+    --dropdown-bg-hover: rgba(22, 135, 167, 0.2);
+    --text-color: #212529;
+    --navbar-color: #212529;
+    --bg-filter: rgba(200, 200, 200, 0.90);
+    --link-text-color: #212529;
+    --mail-text-color: rgba(33, 37, 41, 0.7);
 }
