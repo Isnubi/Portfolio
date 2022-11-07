@@ -57,7 +57,7 @@
 </div>
 -->
 
-**Currently in work**
+**Still in development**
 
 This website is a portfolio of my work. It is a showcase of my skills and 
 abilities. You can find my resume, my projects, my skills and my contact details.
@@ -68,10 +68,13 @@ abilities. You can find my resume, my projects, my skills and my contact details
 
 ### Built With
 
-* [![HTML][HTML-shield]][HTML-url]
+It is developed, from scratch, by me, with:
+
 * [![PHP][PHP-shield]][PHP-url]
+* [![HTML][HTML-shield]][HTML-url]
 * [![CSS][CSS-shield]][CSS-url]
 * [![JavaScript][JavaScript-shield]][JavaScript-url]
+* [![Bootstrap][Bootstrap-shield]][Bootstrap-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,7 +83,7 @@ abilities. You can find my resume, my projects, my skills and my contact details
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-You can access to it from my [website](https://www.louis-gambart.fr/).
+You can access it from my [website](https://www.louis-gambart.fr/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,6 +137,12 @@ Isnubi - [@Louis_Gambart](https://twitter.com/Louis_Gambart) - contact@louis-gam
 [license-url]: https://github.com/Isnubi/Portfolio/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/louis-gambart
+[Python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://www.python.org/
+[JSON-shield]: https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white
+[JSON-url]: https://www.json.org/json-en.html
+[Markdown-shield]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
+[Markdown-url]: https://www.markdownguide.org/
 [HTML-shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://www.w3.org/html/
 [CSS-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
@@ -144,5 +153,13 @@ Isnubi - [@Louis_Gambart](https://twitter.com/Louis_Gambart) - contact@louis-gam
 [PHP-url]: https://www.php.net/
 [MySQL-shield]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 [MySQL-url]: https://www.mysql.com/
+[Java-shield]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+[Java-url]: https://www.java.com/
+[C-shield]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+[C-url]: https://en.wikipedia.org/wiki/C_(programming_language)
+[CSV-shield]: https://img.shields.io/badge/CSV-239120?style=for-the-badge&logo=csv&logoColor=white
+[CSV-url]: https://en.wikipedia.org/wiki/Comma-separated_values
+[Bootstrap-shield]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
 [Twitter-shield]: https://img.shields.io/twitter/follow/Louis_Gambart?style=social
 [Twitter-url]: https://twitter.com/Louis_Gambart/
