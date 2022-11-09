@@ -1,4 +1,4 @@
-var random = Math.floor(Math.random() * 15);
+var random = Math.floor(Math.random() * 3);
 
 let programBg = [
     "url('/public/img/index-back.jpg')",
