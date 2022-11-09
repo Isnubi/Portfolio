@@ -14,3 +14,4 @@
     </p>
 </footer>
 <script src="/private/js/background.js"></script>
+<script src="/private/js/modal.js"></script>

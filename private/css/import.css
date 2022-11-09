@@ -2,6 +2,8 @@
 @import 'button.css';
 @import 'main.css';
 @import 'navbar.css';
+@import 'about.css';
+@import 'modal.css';
 
 /* color palette: https://colorhunt.co/palette/f6f5f5d3e0ea1687a7276678 */
 
@@ -18,4 +20,7 @@
     --bg-filter: rgba(200, 200, 200, 0.90);
     --link-text-color: #212529;
     --mail-text-color: rgba(33, 37, 41, 0.7);
+    --highlight-color: #276678;
+    --modal-bg-color: rgba(211, 224, 234, 0.5);
+    --modal-color: #276678;
 }
