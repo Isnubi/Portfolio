@@ -5,6 +5,8 @@
 @import 'about.css';
 @import 'modal.css';
 
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap");
+
 /* color palette: https://colorhunt.co/palette/f6f5f5d3e0ea1687a7276678 */
 
 :root{
