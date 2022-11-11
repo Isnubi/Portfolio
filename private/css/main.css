@@ -1,7 +1,3 @@
-/* import fonts */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap');
-
-
 .center { text-align: center; }
 
 
@@ -19,7 +15,7 @@ div#banner {
 }
 div#filterbanner {
     position: fixed;
-    background-color: rgba(200, 200, 200, 0.90);
+    background-color: var(--bg-filter);
     width: 100%;
     height: 100%;
     z-index: 10;
@@ -31,14 +27,19 @@ div#filterbanner {
 body {
     min-height: 100vh;
     margin: 0;
+    color: var(--text-color);
 }
 main {
     position: relative;
     z-index: 15;
     margin-top: 5rem;
     font-family: Montserrat, sans-serif;
-    margin-left: 2rem;
-    margin-right: 2rem;
+    margin-right: 1.5rem;
+}
+@media (max-width: 768px) {
+    main {
+        margin-right: 1rem;
+    }
 }
 footer {
     min-height: 50px;
@@ -48,6 +49,10 @@ footer {
     bottom: 0;
     width: 100%;
     font-family: Roboto, sans-serif;
+    color: var(--text-color);
+}
+footer a {
+    text-decoration: none;
 }
 nav {
     z-index: 20;
@@ -59,30 +64,25 @@ li {
 }
 
 
-.lien { color: #212529; text-decoration: none; }
-.lien:hover { color: #212529; text-decoration: none; background: transparent; }
-.lien:visited { color: #212529; text-decoration: none; }
+.lien { color: var(--link-text-color); text-decoration: none; }
+.lien:hover { color: var(--link-text-color); text-decoration: none; background: transparent; }
+.lien:visited { color: var(--link-text-color); text-decoration: none; }
 
 
-.lien2 { color: #212529; text-decoration: none; }
-.lien2:hover { color: #212529; text-decoration: none; background: transparent; }
-.lien2:visited { color: #212529; text-decoration: none; }
+.lien2 { color: var(--link-text-color); text-decoration: none; }
+.lien2:hover { color: var(--link-text-color); text-decoration: none; background: transparent; }
+.lien2:visited { color: var(--link-text-color); text-decoration: none; }
 
 
-.mail { color: rgba(33, 37, 41, 0.7); text-decoration: none; }
-.mail:hover { color: rgba(33, 37, 41, 0.7); text-decoration: none; background: transparent; }
-.mail:visited { color: rgba(33, 37, 41, 0.7); text-decoration: none; }
+.mail { color: var(--mail-text-color); text-decoration: none; }
+.mail:hover { color: var(--mail-text-color); text-decoration: none; background: transparent; }
+.mail:visited { color: var(--mail-text-color); text-decoration: none; }
 
 
 body {
     display: flex;
     flex-direction: column;
 }
-article {
+.fill {
     flex: 1;
-}
-
-
-footer a {
-    text-decoration: none;
 }

@@ -6,16 +6,12 @@
         <div id="banner"></div>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/navbar.php');?>
         <main class="container">
-            <div class="row center">
-                <div class="col-12">
-                    <h1>Page d'accueil</h1>
-                    <p>Bienvenue sur mon site !</p>
-                </div>
+            <div class="center">
+                <h1>Welcome to my portfolio!</h1>
                 <br>
-                <button class="btn"><a href="/pages/about.php">About me</a></button>
+                <a class="btn" href="/pages/about.php">About me</a>
             </div>
         </main>
     </body>
-    <article></article>
     <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/footer.php');?>
 </html>

@@ -1,0 +1,46 @@
+.about {
+    margin-left: 2rem;
+    font-family: Montserrat, sans-serif;
+    font-size: 1.5rem;
+    line-height: 150%;
+}
+.about h1 {
+    font-size: 4rem;
+}
+.about .highlight {
+    color: var(--highlight-color);
+}
+.about .highlight a {
+    text-decoration: none;
+    font-family: Roboto, sans-serif;
+    position: relative;
+    cursor: pointer;
+    width: fit-content;
+    margin: auto;
+}
+.about .highlight a:after {
+    transition: width .7s ease-in-out;
+    content: "";
+    position: absolute;
+}
+.about .highlight a.left {
+    color: var(--highlight-color);
+}
+.about .highlight a.left:after {
+    height: 3px;
+    bottom: -5px;
+    left: 0;
+    width: 0;
+    background-color: var(--highlight-color);
+}
+.about .highlight a.left:hover:after {
+    width: 100%;
+}
+
+.line {
+    height: 0.2rem;
+    background: var(--highlight-color);
+    border-radius: 2rem;
+    width: 50%;
+    margin: 0 auto;
+}

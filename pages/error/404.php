@@ -8,12 +8,11 @@
 <main class="container">
     <div class="row center">
         <div class="col-12">
-            <h1>Erreur 404</h1>
-            <p>La page que vous recherchez n'existe pas</p>
+            <h1>Error 404</h1>
+            <p>Page not found</p>
         </div>
     </div>
 </main>
 </body>
-<article></article>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/footer.php');?>
 </html>

@@ -8,12 +8,11 @@
 <main class="container">
     <div class="row center">
         <div class="col-12">
-            <h1>Erreur 403</h1>
-            <p>Vous n'avez pas les droits d'accès à cette page</p>
+            <h1>Error 403</h1>
+            <p>Access denied</p>
         </div>
     </div>
 </main>
 </body>
-<article></article>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/footer.php');?>
 </html>

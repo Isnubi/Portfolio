@@ -70,9 +70,9 @@ abilities. You can find my resume, my projects, my skills and my contact details
 
 It is developed, from scratch, by me, with:
 
-* [![PHP][PHP-shield]][PHP-url]
 * [![HTML][HTML-shield]][HTML-url]
 * [![CSS][CSS-shield]][CSS-url]
+* [![PHP][PHP-shield]][PHP-url]
 * [![JavaScript][JavaScript-shield]][JavaScript-url]
 * [![Bootstrap][Bootstrap-shield]][Bootstrap-url]
 
