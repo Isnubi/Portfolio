@@ -10,7 +10,7 @@
                 <h1>About me</h1>
                 <p>
                     <span class="highlight">Louis GAMBART</span>, actually student in first year of computer science
-                    engineering school at ESIEE PARIS.
+                    engineering school at <span class="highlight"><a class="left" href="https://www.esiee.fr/" target="_blank">ESIEE PARIS</a></span>.
                 </p>
                 <div class="line"></div>
                 <p>
