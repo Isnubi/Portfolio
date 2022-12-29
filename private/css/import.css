@@ -4,25 +4,30 @@
 @import 'navbar.css';
 @import 'about.css';
 @import 'modal.css';
+@import 'contact.css';
 
 @import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap");
 
 /* color palette: https://colorhunt.co/palette/f6f5f5d3e0ea1687a7276678 */
 
 :root{
-    --btn-color: #ffffff;
-    --btn-bg-color: #1687A7;
-    --btn-hover-color: #276678;
-    --navbar-bg-color: #F6F5F5;
+    --btn-color: rgb(255, 255, 255);
+    --btn-bg-color: rgb(22, 135, 167);
+    --btn-hover-color: rgb(39, 102, 120);
+    --navbar-bg-color: rgb(246, 245, 245);
     --navbar-bg-hover: rgba(211, 224, 234, 0.4);
-    --dropdown-bg-color: #D3E0EA;
+    --dropdown-bg-color: rgb(211, 224, 234);
     --dropdown-bg-hover: rgba(22, 135, 167, 0.2);
-    --text-color: #212529;
-    --navbar-color: #212529;
+    --text-color: rgb(33, 37, 41);
+    --navbar-color: rgb(33, 37, 41);
     --bg-filter: rgba(200, 200, 200, 0.90);
-    --link-text-color: #212529;
-    --mail-text-color: rgba(33, 37, 41, 0.7);
-    --highlight-color: #276678;
+    --link-text-color: rgb(33, 37, 41);
+    --mail-text-color: rgba(57, 67, 77, 0.7);
+    --highlight-color: rgb(39, 102, 120);
     --modal-bg-color: rgba(211, 224, 234, 0.5);
-    --modal-color: rgba(39, 102, 120);
+    --modal-color: rgba(22, 135, 167, 0.9);
+}
+
+.is-blurred {
+    filter: blur(5px);
 }

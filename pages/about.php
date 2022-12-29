@@ -2,7 +2,7 @@
 <html lang="fr">
     <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/header.php');?>
     <body id="body">
-        <div id="filterbanner"></div>
+        <div id="filter"></div>
         <div id="banner"></div>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/navbar.php');?>
         <main class="container">
@@ -10,7 +10,7 @@
                 <h1>About me</h1>
                 <p>
                     <span class="highlight">Louis GAMBART</span>, actually student in first year of computer science
-                    engineering school at ESIEE PARIS.
+                    engineering school at <span class="highlight"><a class="left" href="https://www.esiee.fr/" target="_blank">ESIEE PARIS</a></span>.
                 </p>
                 <div class="line"></div>
                 <p>
@@ -93,4 +93,5 @@
 
     </body>
     <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/footer.php');?>
+    <script src="/private/js/modal.js"></script>
 </html>

@@ -2,7 +2,7 @@
 <html lang="fr">
 <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/header.php');?>
 <body>
-<div id="filterbanner"></div>
+<div id="filter"></div>
 <div id="banner"></div>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/navbar.php');?>
 <main class="container">

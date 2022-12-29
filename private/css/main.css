@@ -13,7 +13,7 @@ div#banner {
     top: 0;
     left: 0;
 }
-div#filterbanner {
+div#filter {
     position: fixed;
     background-color: var(--bg-filter);
     width: 100%;
@@ -32,9 +32,10 @@ body {
 main {
     position: relative;
     z-index: 15;
-    margin-top: 5rem;
+    margin-top: 3rem;
     font-family: Montserrat, sans-serif;
     margin-right: 1.5rem;
+    margin-left: 1.5rem;
 }
 @media (max-width: 768px) {
     main {
@@ -73,10 +74,6 @@ li {
 .lien2:hover { color: var(--link-text-color); text-decoration: none; background: transparent; }
 .lien2:visited { color: var(--link-text-color); text-decoration: none; }
 
-
-.mail { color: var(--mail-text-color); text-decoration: none; }
-.mail:hover { color: var(--mail-text-color); text-decoration: none; background: transparent; }
-.mail:visited { color: var(--mail-text-color); text-decoration: none; }
 
 
 body {
