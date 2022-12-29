@@ -13,15 +13,21 @@
                     or with this form!</p>
                 <div class="form">
                     <form action="/private/php/contact.php" method="post">
-                        <div class="form-group">
+                        <div>
                             <fieldset>
                                 <legend>Form</legend>
-                                <label for="name">Name</label>
-                                <input type="text" name="name" id="name" placeholder="Your name" required>
-                                <label for="mail">Mail</label>
-                                <input type="email" name="mail" id="mail" placeholder="Your mail" required><br>
-                                <label for="message">Message</label>
-                                <textarea name="message" id="message" placeholder="Your message" required></textarea>
+                                <div class="input-group">
+                                    <span class="input-group addon">Name</span>
+                                    <input type="text" name="name" id="name" placeholder="Enter your name here" required>
+                                </div>
+                                <div class="input-group">
+                                    <span class="input-group addon">Mail</span>
+                                    <input type="email" name="mail" id="mail" placeholder="Your mail" required><br>
+                                </div>
+                                <div class="input-group">
+                                    <span class="input-group addon">Message</span>
+                                    <textarea name="message" id="message" placeholder="Your message" required></textarea>
+                                </div>
                             </fieldset>
                         </div><br>
                         <div class="form-group">
