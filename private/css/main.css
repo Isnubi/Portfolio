@@ -13,7 +13,7 @@ div#banner {
     top: 0;
     left: 0;
 }
-div#filterbanner {
+div#filter {
     position: fixed;
     background-color: var(--bg-filter);
     width: 100%;
