@@ -22,16 +22,16 @@
                                 </div>
                                 <div class="input-group">
                                     <span class="input-group addon">Mail</span>
-                                    <input type="email" name="mail" id="mail" placeholder="Your mail" required><br>
+                                    <input type="email" name="mail" id="mail" placeholder="Your mail" required>
                                 </div>
                                 <div class="input-group">
                                     <span class="input-group addon">Message</span>
                                     <textarea name="message" id="message" placeholder="Your message" required></textarea>
                                 </div>
+                                <div class="form-group">
+                                    <button type="submit" class="btn">Send</button>
+                                </div>
                             </fieldset>
-                        </div><br>
-                        <div class="form-group">
-                            <button type="submit" class="btn">Send</button>
                         </div>
                     </form>
                 </div>
