@@ -32,7 +32,7 @@ body {
 main {
     position: relative;
     z-index: 15;
-    margin-top: 5rem;
+    margin-top: 3rem;
     font-family: Montserrat, sans-serif;
     margin-right: 1.5rem;
 }
@@ -73,10 +73,6 @@ li {
 .lien2:hover { color: var(--link-text-color); text-decoration: none; background: transparent; }
 .lien2:visited { color: var(--link-text-color); text-decoration: none; }
 
-
-.mail { color: var(--mail-text-color); text-decoration: none; }
-.mail:hover { color: var(--mail-text-color); text-decoration: none; background: transparent; }
-.mail:visited { color: var(--mail-text-color); text-decoration: none; }
 
 
 body {
