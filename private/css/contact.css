@@ -38,6 +38,8 @@ button[type=submit]{
 }
 .input-group > input, .input-group > textarea {
     flex: 1 0 auto;
+    font-family: Montserrat, sans-serif;
+    font-size: 1rem;
 }
 .input-group .addon {
     background: var(--input-group-addon-color);
