@@ -93,4 +93,5 @@
 
     </body>
     <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/footer.php');?>
+    <script src="/private/js/modal.js"></script>
 </html>
