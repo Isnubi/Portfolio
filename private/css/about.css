@@ -1,5 +1,6 @@
 .about {
     margin-left: 2rem;
+    margin-bottom: 2rem;
     font-family: Montserrat, sans-serif;
     font-size: 1.5rem;
     line-height: 150%;
@@ -43,4 +44,35 @@
     border-radius: 2rem;
     width: 50%;
     margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+    .about h1 {
+        font-size: 2rem;
+    }
+    .about {
+        margin-right: 1rem;
+    }
+}
+.about fieldset {
+    border: 2px solid var(--fieldset-border-color);
+    border-radius: 5px;
+    padding: 1rem;
+    margin-right: 2rem;
+}
+
+@media (min-width: 768px) {
+    .row {
+        display: flex;
+    }
+    .column {
+        flex: 50%;
+    }
+}
+.date {
+    text-align: center;
+    font-size: 1rem;
+}
+.about h3 {
+    font-size: 2rem;
 }

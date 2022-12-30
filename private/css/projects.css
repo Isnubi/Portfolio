@@ -6,11 +6,15 @@
 .projects h1 {
     font-size: 4rem;
 }
+.projects p {
+    margin-right: 1rem;
+}
 .projects fieldset {
     border: 2px solid var(--fieldset-border-color);
     border-radius: 5px;
     padding: 1rem;
     margin-bottom: 2rem;
+    margin-right: 2rem;
     display: flex;
     align-items: center;
 }
@@ -22,6 +26,51 @@
     max-width: 10rem;
     max-height: 10rem;
 }
+@media (max-width: 768px) {
+    .projects fieldset > a {
+        display: none;
+    }
+    .projects fieldset img {
+        display: none;
+    }
+    .projects fieldset {
+        margin-right: 1rem;
+    }
+    .projects h1 {
+        font-size: 2rem;
+    }
+}
 .project {
     font-size: 1rem;
+}
+
+
+.projects .highlight {
+    color: var(--highlight-color);
+}
+.projects .highlight a {
+    text-decoration: none;
+    font-family: Montserrat, sans-serif;
+    position: relative;
+    cursor: pointer;
+    width: fit-content;
+    margin: auto;
+}
+.projects .highlight a:after {
+    transition: width .7s ease-in-out;
+    content: "";
+    position: absolute;
+}
+.projects .highlight a.left {
+    color: var(--highlight-color);
+}
+.projects .highlight a.left:after {
+    height: 3px;
+    bottom: -5px;
+    left: 0;
+    width: 0;
+    background-color: var(--highlight-color);
+}
+.projects .highlight a.left:hover:after {
+    width: 100%;
 }

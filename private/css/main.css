@@ -39,7 +39,12 @@ main {
     margin-right: 1.5rem;
     margin-left: 1.5rem;
 }
-@media (max-width: 768px) { main { margin-right: 1rem; } }
+@media (max-width: 768px) {
+    main {
+        margin-right: 1rem;
+        margin-left: .75rem;
+    }
+}
 
 footer {
     min-height: 50px;
