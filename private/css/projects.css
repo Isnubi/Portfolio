@@ -6,6 +6,9 @@
 .projects h1 {
     font-size: 4rem;
 }
+.projects p {
+    margin-right: 1rem;
+}
 .projects fieldset {
     border: 2px solid var(--fieldset-border-color);
     border-radius: 5px;
