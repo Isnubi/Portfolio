@@ -6,7 +6,7 @@
         <div class="menu">
             <li><a href="/index.php">Home</a></li>
             <li><a href="/pages/about.php">About</a></li>
-            <li class="projects-item">Projects
+            <li class="projects-item"><a href="/pages/projects.php">Projects</a>
                 <ul class="dropdown">
                     <li><a href="/pages/projects.php#portfolio">Portfolio</a></li>
                     <li><a href="/pages/projects.php#feurbot">FeurBot</a></li>
