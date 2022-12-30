@@ -27,6 +27,7 @@
     --modal-bg-color: rgba(211, 224, 234, 0.5);
     --modal-color: rgba(22, 135, 167, 0.9);
     --input-group-addon-color: rgb(22, 135, 167);
+    --fieldset-border-color: rgb(22, 135, 167);
 }
 
 .is-blurred {
