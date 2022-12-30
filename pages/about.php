@@ -85,9 +85,6 @@
                     <p>Using projects, they explore the entire information chain and propose improvements in data
                         acquisition, processing, and reproduction in the form of sound, images, etc.</p>
                 </div>
-                <div class="modal-footer">
-                    <h3>Modal Footer</h3>
-                </div>
             </div>
         </div>
 
