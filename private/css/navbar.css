@@ -28,7 +28,6 @@
 .projects-item {
     position: relative;
     display: block;
-    padding: 5px 14px;
 }
 .dropdown{
     background-color: var(--dropdown-bg-color);
