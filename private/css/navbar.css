@@ -29,6 +29,9 @@
     position: relative;
     display: block;
 }
+.projects-item li:hover {
+    border-radius: 0;
+}
 .dropdown{
     background-color: var(--dropdown-bg-color);
     padding: 1em 0;
