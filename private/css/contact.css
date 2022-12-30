@@ -21,7 +21,7 @@
     width: 75%;
 }
 .form fieldset {
-    border: 2px solid var(--input-group-addon-color);
+    border: 2px solid var(--fieldset-border-color);
     border-radius: 5px;
     padding: 1rem;
 }
