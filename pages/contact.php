@@ -8,9 +8,11 @@
         <main class="container">
             <div class="contact">
                 <h1>Contact</h1>
-                <p>Feel free to contact me if you want to talk about a project or a work opportunity with my mail
+                <p>
+                    Feel free to contact me if you want to talk about a project or a work opportunity with my mail
                     <span class="mail"><a href="mailto:contact@louis-gambart.fr">contact@louis-gambart.fr</a></span>
-                    or with this form!</p>
+                    or with this form!
+                </p>
                 <div class="form">
                     <form action="/private/php/contact.php" method="post">
                         <div>
