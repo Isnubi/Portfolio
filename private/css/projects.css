@@ -22,6 +22,20 @@
     max-width: 10rem;
     max-height: 10rem;
 }
+@media (max-width: 768px) {
+    .projects fieldset > a {
+        display: none;
+    }
+    .projects fieldset img {
+        display: none;
+    }
+    .projects fieldset {
+        margin-right: 1rem;
+    }
+    .projects h1 {
+        font-size: 2rem;
+    }
+}
 .project {
     font-size: 1rem;
 }

@@ -53,3 +53,12 @@ button[type=submit]{
     padding: .5rem 1rem;
     width: 150px;
 }
+
+@media (max-width: 768px) {
+    .contact h1 {
+        font-size: 2rem;
+    }
+    .contact {
+        margin-right: 1rem;
+    }
+}
