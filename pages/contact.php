@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="fr">
     <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/header.php');?>
-    <body id="body">
+    <body>
         <div id="filter"></div>
         <div id="banner"></div>
         <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/navbar.php');?>
