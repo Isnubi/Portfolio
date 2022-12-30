@@ -1,0 +1,27 @@
+.projects {
+    margin-left: 2rem;
+    font-size: 1.5rem;
+    font-family: Montserrat, sans-serif;
+}
+.projects h1 {
+    font-size: 4rem;
+}
+.projects fieldset {
+    border: 2px solid var(--fieldset-border-color);
+    border-radius: 5px;
+    padding: 1rem;
+    margin-bottom: 2rem;
+    display: flex;
+    align-items: center;
+}
+.projects fieldset > a {
+    margin-left: auto;
+}
+.projects fieldset img {
+    margin-right: 5rem;
+    max-width: 10rem;
+    max-height: 10rem;
+}
+.project {
+    font-size: 1rem;
+}

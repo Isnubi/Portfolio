@@ -25,7 +25,7 @@
     border-radius: 5px;
     transition: 0.3s ease;
 }
-.projects {
+.projects-item {
     position: relative;
     display: block;
     padding: 5px 14px;
@@ -54,7 +54,7 @@
 .dropdown li:hover {
     background-color: var(--dropdown-bg-hover);
 }
-.projects:hover .dropdown {
+.projects-item:hover .dropdown {
     opacity: 1;
     visibility: visible;
     transform: translateY(0);

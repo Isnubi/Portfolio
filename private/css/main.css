@@ -28,6 +28,8 @@ body {
     min-height: 100vh;
     margin: 0;
     color: var(--text-color);
+    display: flex;
+    flex-direction: column;
 }
 main {
     position: relative;
@@ -37,11 +39,8 @@ main {
     margin-right: 1.5rem;
     margin-left: 1.5rem;
 }
-@media (max-width: 768px) {
-    main {
-        margin-right: 1rem;
-    }
-}
+@media (max-width: 768px) { main { margin-right: 1rem; } }
+
 footer {
     min-height: 50px;
     position: relative;
@@ -52,34 +51,43 @@ footer {
     font-family: Roboto, sans-serif;
     color: var(--text-color);
 }
-footer a {
-    text-decoration: none;
-}
+footer a { text-decoration: none; }
 nav {
     z-index: 20;
     position: relative;
     font-family: Montserrat, sans-serif;
 }
-li {
-    list-style: none;
+li { list-style: none; }
+
+
+.lien {
+    color: var(--link-text-color);
+    text-decoration: none;
+}
+.lien:hover {
+    color: var(--link-text-color);
+    text-decoration: none;
+    background: transparent;
+}
+.lien:visited {
+    color: var(--link-text-color);
+    text-decoration: none;
 }
 
 
-.lien { color: var(--link-text-color); text-decoration: none; }
-.lien:hover { color: var(--link-text-color); text-decoration: none; background: transparent; }
-.lien:visited { color: var(--link-text-color); text-decoration: none; }
-
-
-.lien2 { color: var(--link-text-color); text-decoration: none; }
-.lien2:hover { color: var(--link-text-color); text-decoration: none; background: transparent; }
-.lien2:visited { color: var(--link-text-color); text-decoration: none; }
-
-
-
-body {
-    display: flex;
-    flex-direction: column;
+.lien2 {
+    color: var(--link-text-color);
+    text-decoration: none;
 }
-.fill {
-    flex: 1;
+.lien2:hover {
+    color: var(--link-text-color);
+    text-decoration: none;
+    background: transparent;
 }
+.lien2:visited {
+    color: var(--link-text-color);
+    text-decoration: none;
+}
+
+
+.fill { flex: 1; }
