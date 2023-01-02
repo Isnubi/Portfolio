@@ -60,7 +60,6 @@
                 </div>
             </div>
         </main>
-
         <div id="btsModal" class="modal">
             <div class="modal-content">
                 <div class="modal-header">
@@ -122,7 +121,6 @@
                 </div>
             </div>
         </div>
-
     </body>
     <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/footer.php');?>
     <script src="/private/js/modal.js"></script>
