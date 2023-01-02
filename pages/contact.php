@@ -64,11 +64,5 @@
     </body>
     <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/footer.php');?>
     <script src="/private/js/openModal.js"></script>
-    <?php
-    if($_GET['is_send'] == '1'){
-        echo "<script>openModal('success');</script>";
-    } elseif ($_GET['is_send'] == '0') {
-        echo "<script>openModal('failed');</script>";
-    }
-    ?>
+    <?php if($_GET['is_send'] == '1'){ echo "<script>openModal('success');</script>"; } elseif ($_GET['is_send'] == '0') { echo "<script>openModal('failed');</script>"; } ?>
 </html>
