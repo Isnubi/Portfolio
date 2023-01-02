@@ -63,7 +63,7 @@
         <div id="btsModal" class="modal">
             <div class="modal-content">
                 <div class="modal-header">
-                    <span class="close">&times;</span>
+                    <span class="modal-close">&times;</span>
                     <h2>BTS SIO presentation</h2>
                 </div>
                 <div class="modal-body">
@@ -78,7 +78,7 @@
         <div id="sisrModal" class="modal">
             <div class="modal-content">
                 <div class="modal-header">
-                    <span class="close">&times;</span>
+                    <span class="modal-close">&times;</span>
                     <h2>SISR option</h2>
                 </div>
                 <div class="modal-body">
@@ -93,7 +93,7 @@
         <div id="sti2dModal" class="modal">
             <div class="modal-content">
                 <div class="modal-header">
-                    <span class="close">&times;</span>
+                    <span class="modal-close">&times;</span>
                     <h2>STI2D high school diploma</h2>
                 </div>
                 <div class="modal-body">
@@ -110,7 +110,7 @@
         <div id="sinModal" class="modal">
             <div class="modal-content">
                 <div class="modal-header">
-                    <span class="close">&times;</span>
+                    <span class="modal-close">&times;</span>
                     <h2>SIN option</h2>
                 </div>
                 <div class="modal-body">
