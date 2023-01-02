@@ -6,13 +6,11 @@ let container = document.querySelector('.container');
 for (let i = 0; i < a.length; i++) {
     a[i].onclick = function(e) {
         e.preventDefault();
-        //if media max-width 768px
         if (!window.matchMedia("(max-width: 768px)").matches) {
             container.classList.add('is-blurred');
         }
         setTimeout(function() {
-            let modal = document.querySelector(e.target.getAttribute('href'));
-            modal.style.display = "block";
+            document.querySelector(e.target.getAttribute('href')).style.display = "block";
         }, 100);
     }
 }
