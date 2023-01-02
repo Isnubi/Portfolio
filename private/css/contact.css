@@ -61,4 +61,13 @@ button[type=submit]{
     .contact {
         margin-right: 1rem;
     }
+    .form > form {
+        width: initial;
+    }
+    .input-group .addon {
+        width: initial;
+    }
+    .form {
+        margin-right: .75rem;
+    }
 }
