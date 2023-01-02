@@ -7,7 +7,7 @@ function openModal(modalName) {
         modal.style.display = "block";
     }, 100);
 
-    modal.querySelector('.close').addEventListener('click', function() {
+    modal.querySelector('.modal-close').addEventListener('click', function() {
         modal.style.display = "none";
         container.classList.remove('is-blurred');
     });

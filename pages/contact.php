@@ -42,7 +42,7 @@
         <div id="success" class="modal">
             <div class="modal-content">
                 <div class="modal-header">
-                    <span class="close">&times;</span>
+                    <span class="modal-close">&times;</span>
                     <h2>Mail sent!</h2>
                 </div>
                 <div class="modal-body">
@@ -53,7 +53,7 @@
         <div id="failed" class="modal">
             <div class="modal-content">
                 <div class="modal-header">
-                    <span class="close">&times;</span>
+                    <span class="modal-close">&times;</span>
                     <h2>Mail not sent!</h2>
                 </div>
                 <div class="modal-body">
@@ -64,11 +64,5 @@
     </body>
     <?php include($_SERVER['DOCUMENT_ROOT'].'/private/php/footer.php');?>
     <script src="/private/js/openModal.js"></script>
-    <?php
-    if($_GET['is_send'] == '1'){
-        echo "<script>openModal('success');</script>";
-    } elseif ($_GET['is_send'] == '0') {
-        echo "<script>openModal('failed');</script>";
-    }
-    ?>
+    <?php if($_GET['is_send'] == '1'){ echo "<script>openModal('success');</script>"; } elseif ($_GET['is_send'] == '0') { echo "<script>openModal('failed');</script>"; } ?>
 </html>
