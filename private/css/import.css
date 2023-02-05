@@ -29,7 +29,3 @@
     --input-group-addon-color: rgb(22, 135, 167);
     --fieldset-border-color: rgb(22, 135, 167);
 }
-
-.is-blurred {
-    filter: blur(5px);
-}
