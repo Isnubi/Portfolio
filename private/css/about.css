@@ -60,12 +60,16 @@
     margin-right: 2rem;
 }
 
+.column {
+    margin-top: 3rem;
+}
 @media (min-width: 768px) {
     .row {
         display: flex;
     }
     .column {
         flex: 50%;
+        margin-top: 0;
     }
 }
 .date {
@@ -74,4 +78,8 @@
 }
 .about h3 {
     font-size: 2rem;
+}
+.education-item {
+    margin-left: 1rem;
+    margin-right: 1rem;
 }
