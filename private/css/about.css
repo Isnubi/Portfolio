@@ -83,3 +83,6 @@
     margin-left: 1rem;
     margin-right: 1rem;
 }
+.education-item p {
+    line-height: 2.5rem;
+}
